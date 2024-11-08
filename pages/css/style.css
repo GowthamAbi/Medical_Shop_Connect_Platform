@@ -1,0 +1,44 @@
+.header{
+    display: flex;
+    align-items: center;
+    display: flex;
+}
+#logo
+{
+   box-sizing: content-box;
+    width: 10%;
+    text-align: center;
+}
+
+#login
+{
+    margin-left: auto;
+    text-align: center;
+    box-sizing: content-box;
+    width: 100px;
+    font-weight: bold;
+    font-size: larger;
+    
+}
+
+a{
+    text-decoration: none;
+}
+a:hover
+{
+    color:green;
+    font-size: large;
+    background-color: hsl(192, 8%, 76%);
+    
+}
+
+#Register
+{
+    margin-left: 10px;
+    text-align: center;
+    box-sizing: content-box;
+    font-weight: bold;
+    width: 70px;
+}
+
+
